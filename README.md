@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Frontend development.
-- 🌱 I’m currently learning Python and practicing DSA in c++. 
+- 🌱 I’m currently learning Python and practicing DSA in C++. 
 - 👯 I’m looking to collaborate on frontend projects and social media marketing.
 - 🤔 I’m looking for help with Backend development.
 - 💬 Ask me about programming languages, social media and digital marketing.
