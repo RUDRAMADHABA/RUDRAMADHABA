@@ -13,7 +13,7 @@
 - [Instagram :- r.u.d.r.a_rm](https://www.instagram.com/r.u.d.r.a_rm/) 
 - [Facebook :-  Rudramadhaba Mishra](https://www.facebook.com/rudramadhaba.mishra)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: U heard of pyscho gamer and coder ... Oh yeah thats me!
+- ⚡ Fun fact: U heard of pyscho coder and gamer ... Oh yeah thats me!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudramadhaba&label=Profile%20views&color=0e75b6&style=flat" alt="rudramadhaba" /> </p>
 
