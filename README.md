@@ -14,4 +14,5 @@
 - [Facebook :-  Rudramadhaba Mishra](https://www.facebook.com/rudramadhaba.mishra)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: U heard of pyscho gamer and coder ... Oh yeah thats me!
+- <img src ="https://github-readme-stats.vercel.app/api?username=RUDRAMADHABA&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
