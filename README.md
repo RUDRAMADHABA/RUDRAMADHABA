@@ -10,7 +10,7 @@
 - 📫 How to reach me:
 - <a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:rudramadhabamishra@gmail.com)</a>  <a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/rudramadhaba-mishra-386a83176/)</a> <a>[<img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/>](https://twitter.com/rudramadhabami1)</a><a>[<img src="https://img.icons8.com/fluent/40/000000/facebook-new.png"/>](https://www.facebook.com/rudramadhaba.mishra)</a> <a>[<img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/>](https://www.instagram.com/r.u.d.r.a_rm/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: U heard of pyscho coder and gamer ... Oh yeah thats me!
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudramadhaba&label=Profile%20views&color=0e75b6&style=flat" alt="rudramadhaba" /> </p>
 
