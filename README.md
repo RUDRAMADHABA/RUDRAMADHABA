@@ -1,6 +1,6 @@
 ### Hola!!! It's Rudramadhaba Mishra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38px">
 
-!Open Source Love(https://badges.frapsoft.com/os/v2/open-source.svg?v=103)] <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudramadhaba&label=Profile%20views&color=0e75b6&style=flat" alt="rudramadhaba" /> </p>
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)] <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudramadhaba&label=Profile%20views&color=0e75b6&style=flat" alt="rudramadhaba" /> </p>
 
 
 - 🔭 I’m currently working on Frontend development.
