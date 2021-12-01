@@ -5,14 +5,13 @@
 
 - 🔭 I’m currently working on Frontend development.
 - 🌱 I’m currently learning Webdevelopment and practicing DSA in C++. 
-- 👯 I’m looking to collaborate on frontend projects and social media marketing.
+- 👯 I’m looking to collaborate on frontend projects and social media marketing. <p align="right"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
 - 🤔 I’m looking for help with Backend development.
 - 💬 Ask me about programming languages, social media and digital marketing.
 - 😍 Hobbies:- Listening to music , playing cricket , coding and gaming .
 - 😄 Pronouns: He/His
 - 📫 How to reach me:
 - <a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:rudramadhabamishra@gmail.com)</a>  <a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/rudramadhaba-mishra-386a83176/)</a> <a>[<img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/>](https://twitter.com/rudramadhabami1)</a><a>[<img src="https://img.icons8.com/fluent/40/000000/facebook-new.png"/>](https://www.facebook.com/rudramadhaba.mishra)</a> <a>[<img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/>](https://www.instagram.com/r.u.d.r.a_rm/)
-  <p align="right"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudramadhaba" alt="rudramadhaba" /></a> </p>
 
