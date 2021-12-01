@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India ❤️</h3>
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) <img src="https://komarev.com/ghpvc/?username=rudramadhaba&label=Profile%20views&color=0e75b6&style=flat" alt="rudramadhaba" />
-
+<p align="right"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
 
 - 🔭 I’m currently working on Frontend development.
 - 🌱 I’m currently learning Webdevelopment and practicing DSA in C++. 
