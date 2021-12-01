@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Frontend development.
 - 🌱 I’m currently learning Webdevelopment and practicing DSA in C++. 
-- 👯 I’m looking to collaborate on frontend projects and social media marketing. <p align="right"><img width=35% src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47pzi2rpig0vc8pjusra8hiai1b91zgiywvbubu9vu&rid=giphy.gif"></p>
+- 👯 I’m looking to collaborate on frontend projects and social media marketing.
 - 🤔 I’m looking for help with Backend development.
 - 💬 Ask me about programming languages, social media and digital marketing.
 - 😍 Hobbies:- Listening to music , playing cricket , coding and gaming .
