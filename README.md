@@ -1,4 +1,4 @@
-### Hola!!! It's Rudramadhaba Mishra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38px">
+### Hola! It's Rudramadhaba Mishra <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="38px">
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
