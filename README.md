@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on Frontend development.
 - 🌱 I’m currently learning Reactjs and practicing DSA in C++. 
-- 👯 I’m looking to collaborate on frontend projects and social media marketing.
+- 👯 I’m looking to collaborate on full stack projects.
 - 🤔 I’m looking for help with Backend development.
-- 💬 Ask me about programming languages, social media and digital marketing.
+- 💬 Ask me about programming languages, anything related to Web development.
 - 😍 Hobbies:- Listening to music , playing cricket , coding and gaming .
 - 😄 Pronouns: He/His
 - 📫 How to reach me:
