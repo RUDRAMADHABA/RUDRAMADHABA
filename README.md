@@ -27,4 +27,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudramadhaba&" alt="rudramadhaba" /></p>
+<br>
+<h3 align="left">Contributions: </h3>
+<img src="https://activity-graph.herokuapp.com/graph?username=RUDRAMADHABA&amp;theme=xcode&amp;hide_border=true&amp;area=true" style="max-width:100%;">
 
