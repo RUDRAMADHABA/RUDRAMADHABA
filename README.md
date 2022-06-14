@@ -26,10 +26,10 @@
   <img height=200px width="100%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=RUDRAMADHABA&hide_title=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight>
 </p>
 <br>
-<p><img align="right" height=160px src="https://github-readme-stats.vercel.app/api?username=RUDRAMADHABA&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="rudramadhaba" /></p>
+<p><img align="right" height=200px src="https://github-readme-stats.vercel.app/api?username=RUDRAMADHABA&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="rudramadhaba" /></p>
 
 
-<img width="45%" height=200px src="https://github-readme-streak-stats.herokuapp.com/?user=RUDRAMADHABA&show_icons=true&theme=tokyonight" />
+<img width="45%" height=180px src="https://github-readme-streak-stats.herokuapp.com/?user=RUDRAMADHABA&show_icons=true&theme=tokyonight" />
 <br>
 <h3 align="left">Contributions: </h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=RUDRAMADHABA&amp;theme=xcode&amp;hide_border=true&amp;area=true" style="max-width:100%;">
