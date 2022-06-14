@@ -3,7 +3,7 @@
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) <img src="https://komarev.com/ghpvc/?username=rudramadhaba&label=Profile%20views&color=0e75b6&style=flat" alt="rudramadhaba" />
 
-- 🔭 I’m currently working on Frontend development.
+- 🔭 I’m currently working on Full Stack Development.
 - 🌱 I’m currently learning Reactjs and practicing DSA in C++. 
 - 👯 I’m looking to collaborate on full stack projects.
 - 🤔 I’m looking for help with Backend development.
