@@ -30,5 +30,5 @@
 <p><img align="left" width="46%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=RUDRAMADHABA&show_icons=true&theme=tokyonight"/></p>
 <br>
 <h3 align="left">Contributions: </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=RUDRAMADHABA&amp;theme=xcode&amp;hide_border=true&amp;area=true" style="max-width:100%;">
+<p><img src="https://activity-graph.herokuapp.com/graph?username=RUDRAMADHABA&amp;theme=xcode&amp;hide_border=true&amp;area=true" style="max-width:100%;"></p>
 
