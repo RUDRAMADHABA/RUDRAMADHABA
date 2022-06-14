@@ -29,7 +29,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=RUDRAMADHABA&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="rudramadhaba" /></p>
 
 
-<img width="45%" height=170px src="https://github-readme-streak-stats.herokuapp.com/?user=RUDRAMADHABA&show_icons=true&theme=tokyonight" />
+<img width="45%" height=190px src="https://github-readme-streak-stats.herokuapp.com/?user=RUDRAMADHABA&show_icons=true&theme=tokyonight" />
 <br>
 <h3 align="left">Contributions: </h3>
 <img src="https://activity-graph.herokuapp.com/graph?username=RUDRAMADHABA&amp;theme=xcode&amp;hide_border=true&amp;area=true" style="max-width:100%;">
