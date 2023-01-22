@@ -28,5 +28,5 @@
 <p><img align="right" width="46%" height="300px" src="https://github-readme-stats.vercel.app/api?username=RUDRAMADHABA&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" alt="rudramadhaba" /></p>
 
 <p><img align="left" width="46%" height="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=RUDRAMADHABA&show_icons=true&theme=tokyonight"/></p>
-<p><img src="https://activity-graph.herokuapp.com/graph?username=RUDRAMADHABA&amp;theme=xcode&amp;hide_border=true&amp;area=true" style="max-width:100%;"></p>
+<!-- <p><img src="https://activity-graph.herokuapp.com/graph?username=RUDRAMADHABA&amp;theme=xcode&amp;hide_border=true&amp;area=true" style="max-width:100%;"></p> -->
 
