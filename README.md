@@ -3,10 +3,10 @@
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) <img src="https://komarev.com/ghpvc/?username=rudramadhaba&label=Profile%20views&color=0e75b6&style=flat" alt="rudramadhaba" />
 
-- 🔭 I’m currently working on Full Stack Development.
+- 🔭 I’m currently working on Full Stack Development and DevOps.
 - 🌱 I’m currently learning Devops and practicing DSA in C++. 
 - 👯 I’m looking to collaborate on full stack projects.
-- 🤔 I’m looking for help with Backend development.
+- 🤔 I’m looking for help with DevOps.
 - 💬 Ask me about programming languages, anything related to Web development.
 - 😍 Hobbies:- Listening to music , playing cricket , coding and gaming .
 - 😄 Pronouns: He/His
