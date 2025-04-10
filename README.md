@@ -4,11 +4,11 @@
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) <img src="https://komarev.com/ghpvc/?username=rudramadhaba&label=Profile%20views&color=0e75b6&style=flat" alt="rudramadhaba" />
 
 - 🔭 I’m currently working on Full Stack Development and DevOps.
-- 🌱 I’m currently learning Devops and practicing DSA in C++. 
+- 🌱 I’m currently learning Devops. 
 - 👯 I’m looking to collaborate on full stack projects.
 - 🤔 I’m looking for help with DevOps.
 - 💬 Ask me about programming languages, anything related to Web development.
-- 😍 Hobbies:- Listening to music , playing cricket , coding and gaming .
+- 😍 Hobbies:- Listening to music, playing cricket, coding and gaming .
 - 😄 Pronouns: He/His
 - 📫 How to reach me:
 - <a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:rudramadhabamishra@gmail.com)</a>  <a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/rudramadhaba-mishra-386a83176/)</a> <a>[<img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/>](https://twitter.com/rudramadhabami1)</a><a>[<img src="https://img.icons8.com/fluent/40/000000/facebook-new.png"/>](https://www.facebook.com/rudramadhaba.mishra)</a> <a>[<img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/>](https://www.instagram.com/r.u.d.r.a_rm/)
